@@ -1,0 +1,37 @@
+{
+    "friendList": [
+
+        {
+            "name": "Neelesh P",
+            "isFavourite": false
+        },
+        {
+            "name": "Nitin P",
+            "isFavourite": true
+        },
+        {
+            "name": "Pooja C",
+            "isFavourite": true
+        },
+        {
+            "name": "Megha G",
+            "isFavourite": false
+        },
+        {
+            "name": "Navjot P",
+            "isFavourite": true
+        },
+        {
+            "name": "Prabhjot P",
+            "isFavourite": true
+        },
+        {
+            "name": "Saumitra S",
+            "isFavourite": false
+        },
+        {
+            "name": "Dolly M",
+            "isFavourite": false
+        }
+    ]
+}
