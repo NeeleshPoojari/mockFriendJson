@@ -2,47 +2,47 @@
     "friendList": [
         {
             "id": "4cfd-1",
-            "name": "Neelesh P",
+            "name": "John P",
             "isFavourite": false
         },
         {
             "id": "4cfd-2",
-            "name": "Nitin P",
+            "name": "Scarlett J",
             "isFavourite": true
         },
         {
             "id": "4cfd-3",
-            "name": "Pooja C",
+            "name": "Shakira ",
             "isFavourite": true
         },
         {
             "id": "4cfd-4",
-            "name": "Aditya KV",
+            "name": " Tom C",
             "isFavourite": false
         },
         {
             "id": "4cfd-5",
-            "name": "Navjot P",
+            "name": "Peter P",
             "isFavourite": true
         },
         {
             "id": "4cfd-6",
-            "name": "Prabhjot P",
+            "name": " Tylor P",
             "isFavourite": true
         },
         {
             "id": "4cfd-7",
-            "name": "Saumitra S",
+            "name": "Kane S",
             "isFavourite": false
         },
         {
             "id": "4cfd-8",
-            "name": "Dolly M",
+            "name": "Selena G",
             "isFavourite": false
         },
         {
             "id": "4cfd-9",
-            "name": "Megha G",
+            "name": " Kylie J",
             "isFavourite": false
         }
     ]
